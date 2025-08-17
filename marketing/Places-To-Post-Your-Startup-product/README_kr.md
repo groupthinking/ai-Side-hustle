@@ -2,11 +2,8 @@
 
 - 다양한 플랫폼에서 스타트업을 발표하려는 분들을 위한 가이드입니다.  
 - 아래는 스타트업 프로젝트를 발표할 수 있는 Reddit 커뮤니티와 웹사이트를 정리한 목록입니다.
-
 ---
-
 ## **Reddit**
-
 - **/r/AlphaandBetausers** - [https://www.reddit.com/r/alphaandbetausers/](https://www.reddit.com/r/alphaandbetausers/)  
 - **/r/Coupons** - [https://www.reddit.com/r/coupons/](https://www.reddit.com/r/coupons/)  
 - **/r/Design_Critiques** - [https://www.reddit.com/r/design_critiques/](https://www.reddit.com/r/design_critiques/)  
@@ -19,11 +16,7 @@
 - **/r/SideProject** - [http://reddit.com/r/sideproject](http://reddit.com/r/sideproject)  
 - **/r/SmallBusiness** - [https://www.reddit.com/r/smallbusiness/](https://www.reddit.com/r/smallbusiness/)  
 - **/r/Startups** - [http://reddit.com/r/startups](http://reddit.com/r/startups)  
-
----
-
 ## **웹사이트**
-
 - **AngelList** - [https://angel.co/](https://angel.co/)  
 - **Alternative To** - [http://alternativeto.net/](http://alternativeto.net/)  
 - **Beta Bound** - [http://www.betabound.com/announce/](http://www.betabound.com/announce/)  
@@ -54,18 +47,11 @@
 - **Startup Stash** - [http://startupstash.com/](http://startupstash.com/)  
 - **Venture Beat** - [http://venturebeat.com/news-tips/](http://venturebeat.com/news-tips/)  
 - **Ycombinator** - [https://news.ycombinator.com/](https://news.ycombinator.com/)  
-
----
-
 ## **개발자를 위한 플랫폼**
 - **Juejin(掘金)** 커뮤니티  
 - **Alibaba Cloud** 커뮤니티  
 - **Tencent Cloud** 커뮤니티  
-
----
-
 ## **Telegram 마케팅**
-
 - 채널 및 그룹에 실제 또는 가상의 회원 추가  
 - 채널 게시물 조회수 증가  
 - 좋아요, 투표, 설문조사 응답 수를 높임  

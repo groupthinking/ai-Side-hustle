@@ -3,7 +3,6 @@
  - 以下内容汇总了一些 Reddit 社区和网站，供你发布你的创业项目。
 
 # Reddit
-
 * /r/AlphaandBetausers - https://www.reddit.com/r/alphaandbetausers/
 * /r/Coupons - https://www.reddit.com/r/coupons/
 * /r/Design_Critiques - https://www.reddit.com/r/design_critiques/
@@ -16,9 +15,7 @@
 * /r/SideProject - http://reddit.com/r/sideproject
 * /r/SmallBusiness - https://www.reddit.com/r/smallbusiness/
 * /r/Startups - http://reddit.com/r/startups
-
 # Websites
-
 * AngelList - https://angel.co/
 * Alternative To - http://alternativeto.net/
 * Beta Bound - http://www.betabound.com/announce/
@@ -49,12 +46,10 @@
 * Startup Stash - http://startupstash.com/
 * Venture Beat - http://venturebeat.com/news-tips/
 * Ycombinator - https://news.ycombinator.com/
-
 # 如果面向开发者
  - 掘金社区
  - 阿里云社区
  - 腾讯云社区
-
 # Telegram marketing
 * 为你的频道和群组增加真实或虚假的成员。
 * 增加频道帖子浏览量。

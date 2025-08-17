@@ -1,11 +1,8 @@
 # Startup Launch Platforms Guide
 
 If you are looking for various platforms to showcase your startup, the following list provides a summary of Reddit communities and websites where you can promote your startup projects.
-
 ---
-
 ## Reddit Communities
-
 - **/r/AlphaandBetausers** - [Visit](https://www.reddit.com/r/alphaandbetausers/)
 - **/r/Coupons** - [Visit](https://www.reddit.com/r/coupons/)
 - **/r/Design_Critiques** - [Visit](https://www.reddit.com/r/design_critiques/)
@@ -18,11 +15,7 @@ If you are looking for various platforms to showcase your startup, the following
 - **/r/SideProject** - [Visit](http://reddit.com/r/sideproject)
 - **/r/SmallBusiness** - [Visit](https://www.reddit.com/r/smallbusiness/)
 - **/r/Startups** - [Visit](http://reddit.com/r/startups)
-
----
-
 ## Websites
-
 - **AngelList** - [angel.co](https://angel.co/)
 - **Alternative To** - [alternativeto.net](http://alternativeto.net/)
 - **Beta Bound** - [betabound.com/announce](http://www.betabound.com/announce/)
@@ -53,19 +46,11 @@ If you are looking for various platforms to showcase your startup, the following
 - **Startup Stash** - [startupstash.com](http://startupstash.com/)
 - **Venture Beat** - [venturebeat.com/news-tips](http://venturebeat.com/news-tips/)
 - **Y Combinator** - [news.ycombinator.com](https://news.ycombinator.com/)
-
----
-
 ## Developer-Focused Platforms
-
 - **Juejin Community**
 - **Alibaba Cloud Community**
 - **Tencent Cloud Community**
-
----
-
 ## Telegram Marketing
-
 - Increase real or fake members for your channel or group.
 - Boost the number of views on channel posts.
 - Improve likes, votes, and poll participation.
