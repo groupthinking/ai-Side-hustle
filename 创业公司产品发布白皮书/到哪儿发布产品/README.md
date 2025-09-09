@@ -15,6 +15,7 @@
 * /r/SideProject - http://reddit.com/r/sideproject
 * /r/SmallBusiness - https://www.reddit.com/r/smallbusiness/
 * /r/Startups - http://reddit.com/r/startups
+
 # Websites
 * AngelList - https://angel.co/
 * Alternative To - http://alternativeto.net/
@@ -50,6 +51,11 @@
  - 掘金社区
  - 阿里云社区
  - 腾讯云社区
+ - 华为云社区（鸿蒙社区）
+ - 火山云社区
+ - CSDN社区
+ - 即刻社区
+
 # Telegram marketing
 * 为你的频道和群组增加真实或虚假的成员。
 * 增加频道帖子浏览量。
